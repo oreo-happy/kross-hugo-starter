@@ -1,7 +1,7 @@
 ---
 title: Kontaktnachverfolgung
 date: 2019-05-12T12:14:34.000+06:00
-image: images/blog/post-3.jpg
+image: "/images/kontakt_nachverfolgung.jpeg"
 description: This is meta description.
 
 ---
