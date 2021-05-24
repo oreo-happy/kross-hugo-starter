@@ -1,7 +1,7 @@
 ---
 title: Genesenennachweis
 date: 2019-05-12T12:14:34.000+06:00
-image: images/blog/post-5.jpg
+image: "/images/genesenennachweis.jpeg"
 description: This is meta description.
 
 ---
