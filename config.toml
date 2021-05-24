@@ -13,7 +13,7 @@ name = "Beschränkungen"
 weight = 3
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "#"
 weight = 4
 [[menu.main]]
 URL = "contact"
