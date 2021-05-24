@@ -11,7 +11,7 @@ about:
     label: Start
     URL: about
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: Web Design
@@ -27,7 +27,7 @@ skill:
     progress: 70%
     color: "#ffbcaa"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
@@ -43,7 +43,7 @@ experience:
     company: THEMEFISHER
     duration: Sep 2014 - Present
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
@@ -59,7 +59,7 @@ education:
     year: "1998"
     academy: Cardiff School
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -78,11 +78,11 @@ service:
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -133,5 +133,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: false
   title: Blogs
