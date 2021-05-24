@@ -20,15 +20,15 @@ URL = "contact"
 name = "Kontakt"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "#"
+author = "#"
+copyright = "Copyrighht &copy; 2021 engineered and developed by [Atakan Köskeroglu](https://www.linkedin.com/in/atakan-koskeroglu/)"
+description = "Ayses und Mehmets Seite"
+email = "#"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "#"
 theme_color = "#41228e"
 [params.contact]
 enable = true
