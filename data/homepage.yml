@@ -8,7 +8,7 @@ about:
     hier beantwortet.
   button:
     enable: true
-    label: Zeit und Ort
+    label: Zeit / Ort
     URL: about
 skill:
   enable: false
