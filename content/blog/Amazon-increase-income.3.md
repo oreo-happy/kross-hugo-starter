@@ -1,7 +1,7 @@
 ---
 title: COVID-Schnelltest
 date: 2019-05-12T12:14:34.000+06:00
-image: images/blog/post-4.jpg
+image: "/images/ag_schnelltest.png"
 description: This is meta description.
 
 ---
