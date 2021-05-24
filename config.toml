@@ -23,7 +23,7 @@ description = "Ayses und Mehmets Seite"
 email = "#"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "#"
+logo = ""
 phone = "#"
 theme_color = "#41228e"
 [params.contact]
