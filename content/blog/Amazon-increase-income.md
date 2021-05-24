@@ -1,7 +1,7 @@
 ---
 title: Personenzahl
 date: 2019-05-12T12:14:34.000+06:00
-image: "/images/+.svg"
+image: "/images/abstrakte-konzeptvektorillustration-covid-19-coronavirus-weltweit-pandemie-covid-19-opfer-infektionsausbruch-statistik-zahl-der-todesopfer-notfallzustand-abstrakte-metapher-fuer-quarantaenemassnahmen_335657-1597.jpeg"
 description: This is meta description.
 
 ---
