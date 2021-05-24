@@ -3,8 +3,8 @@ title: Zeit und Ort
 date: 2019-05-12T12:14:34.000+06:00
 description: Hier finden Sie Informationen über Zeit und Ort des Nişan von Ayse und
   Mehmet
-author_image: images/about/author.jpg
-author_signature: images/about/signature.png
+author_image: "/images/ring-apple.png"
+author_signature: "#"
 
 ---
 **_Zeit:_**
