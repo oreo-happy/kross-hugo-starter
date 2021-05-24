@@ -9,7 +9,7 @@ name = "Zeit und Ort"
 weight = 2
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Beschränkungen"
 weight = 3
 [[menu.main]]
 URL = "portfolio"
