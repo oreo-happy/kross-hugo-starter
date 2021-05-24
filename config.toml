@@ -5,7 +5,7 @@ theme = "kross-hugo"
 title = "Ayse und Mehmet"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Zeit und Ort"
 weight = 2
 [[menu.main]]
 URL = "blog"
