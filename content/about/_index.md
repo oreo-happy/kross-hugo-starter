@@ -7,8 +7,10 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Zeit:
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Nişan findet am 26.06.2021 in ___________ statt.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Ort:
+
+Geben Sie dafür ___________ in ___________ im Navi an oder nutzen Sie folgenden Google Maps [https://www.google.com/maps](https://www.google.com/maps "Google Maps") oder Apple Maps Link [https://maps.apple.com/?address=Robert-Koch-Platz%2012,%2038440%20Wolfsburg,%20Deutschland&auid=16919406985137279887&ll=52.426118,10.786241&lsp=9902&q=Ostfalia%20Hochschule%20f%C3%BCr%20angewandte%20Wissenschaften&_ext=ChkKBQgEEIEBCgQIBRADCgQIBhAZCgQIChAAEiYpTocEM/c1SkAxWgIl68yOJUA5zFwqjx03SkBB7Oat1FeWJUBQBA%3D%3D&t=m](https://maps.apple.com/?address=Robert-Koch-Platz%2012,%2038440%20Wolfsburg,%20Deutschland&auid=16919406985137279887&ll=52.426118,10.786241&lsp=9902&q=Ostfalia%20Hochschule%20f%C3%BCr%20angewandte%20Wissenschaften&_ext=ChkKBQgEEIEBCgQIBRADCgQIBhAZCgQIChAAEiYpTocEM/c1SkAxWgIl68yOJUA5zFwqjx03SkBB7Oat1FeWJUBQBA%3D%3D&t=m "Apple Maps Link")
